@@ -3,9 +3,9 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-        "Prachi + Rudraksh"
-        "I am a good person"
-        "Rudraksh ia a good person"
+        <div> "I am a good person"</div>
+        <div> "Rudraksh ia a good person"</div>
+       
     </div>
   )
 }
