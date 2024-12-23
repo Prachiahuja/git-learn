@@ -5,7 +5,7 @@ const App = () => {
     <div>
         "Prachi + Rudraksh"
         "I am a good person"
-        
+        "Rudraksh ia a good person"
     </div>
   )
 }
